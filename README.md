@@ -22,7 +22,7 @@ Ini adalah proyek sederhana untuk membuat form kontak menggunakan PHP native. Pr
     ?>
     ```
 
-2. Jangan lupa di import database yang bernama `contact_form_db.sql` terlebih dahulu
+2. Jangan lupa di import database yang bernama `contact_db.sql` terlebih dahulu
 
 3. Pastikan server web Anda mengarahkan ke direktori proyek ini.
 
